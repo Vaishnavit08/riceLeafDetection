@@ -1,0 +1,6 @@
+ultralytics
+gradio
+kaggle
+numpy
+Pillow
+matplotlib
