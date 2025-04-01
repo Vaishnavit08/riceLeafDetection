@@ -71,9 +71,6 @@ Validation Predictions:
 
 ---
 
-## 🎥 Video Inference
-Watch the model in action:
-[![Video](video.mp4)](video.mp4)
 
 ---
 
